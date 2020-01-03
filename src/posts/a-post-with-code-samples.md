@@ -1,12 +1,12 @@
 ---
-title: A post with code samples
-date: '2019-06-18'
+title: A post with code sdfsdfdsbfsdfmsdf
+date: 2019-06-18
 tags:
-  - demo-content
-  - code
-  - blog
----
+- demo-content
+- code
+- blog
 
+---
 The best way to demo a code post is to display a real life post, so check out
 this one from
 [andy-bell.design](https://andy-bell.design/wrote/creating-a-full-bleed-css-utility/)

@@ -1,6 +1,6 @@
 ---
 title: A post with code sdfsdfdsbfsdfmsdf
-date: 2019-06-18
+date: 
 tags:
 - demo-content
 - code
